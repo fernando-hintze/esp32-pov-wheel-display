@@ -1,6 +1,15 @@
-# POV Wheel Display — Guía de armado
+# 🚲 POV Wheel Display — Guía de armado
+
+[![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-yellow.svg)](LICENSE)
+[![Estado: fase de compra](https://img.shields.io/badge/estado-fase%20de%20compra-orange)]()
+[![MCU: ESP32-S3](https://img.shields.io/badge/MCU-ESP32--S3-red)]()
+[![LEDs: HD107S x448](https://img.shields.io/badge/LEDs-HD107S%20%C3%97448-brightgreen)]()
 
 Display **POV (Persistencia de Visión)** en la rueda delantera de una bici fixie 700c.
+
+> 🚧 **Proyecto en fase de compra de material.** Aún no hay firmware ni fotos del montaje.
+
+Inspirado en [aleksei-severin/POV_Wheel_Display](https://github.com/aleksei-severin/POV_Wheel_Display).
 
 > 📋 **Componentes, decisiones y enlaces:** ver **`chat.md`**.
 > Esta guía asume que ya tienes todo el material comprado.
@@ -220,3 +229,15 @@ Con el pack conectado, comprueba con el multímetro:
 - [ ] Barniz conformal aplicado (dejando libres conectores/botón/Hall)
 - [ ] Fusible y (opcional) protección de polaridad
 - [ ] USB-C accesible para carga
+
+---
+
+## Licencia
+
+[MIT](LICENSE) © 2026 Fernando Hintze.
+
+Proyecto **inspirado** en [aleksei-severin/POV_Wheel_Display](https://github.com/aleksei-severin/POV_Wheel_Display)
+(licencia *PolyForm Noncommercial 1.0.0*). Este repositorio contiene diseño propio y **no reutiliza
+código** de ese proyecto.
+
+> Navegación: [`README.md`](README.md) (armado) · [`chat.md`](chat.md) (diseño y componentes)
