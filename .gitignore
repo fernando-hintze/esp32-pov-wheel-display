@@ -1,0 +1,31 @@
+# Entorno / editores
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+.DS_Store
+
+# PlatformIO / Arduino
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Firmware / artefactos locales
+*.log
+
+# Secretos (credenciales WiFi/BLE, tokens, etc.)
+secrets.h
+wifi_config.h
+config.local.*
+.env
